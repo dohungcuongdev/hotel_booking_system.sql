@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Máy chủ: 127.0.0.1
--- Thời gian đã tạo: Th2 10, 2018 lúc 03:47 AM
+-- Thời gian đã tạo: Th2 13, 2018 lúc 06:33 PM
 -- Phiên bản máy phục vụ: 10.1.25-MariaDB
 -- Phiên bản PHP: 5.6.31
 
@@ -44,7 +44,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id`, `name`, `birthday`, `gender`, `img`, `password`, `phone`, `username`) VALUES
-(1, 'cuong', '1995-10-12', 'male', 'login_avatar.png', 'ititiu13170', '0908998923', 'cdo7@csc.com');
+(1, 'cuong', '1995-10-12', 'male', 'login_avatar.png', 'f/KiWeZu6xYe23LF7kOoBYbowNiXqwbP0hnsk4cpQ5uvE4Jx8ElpD9mGgpOQuumWjEVIeA==', '0908998923', 'cdo7@csc.com');
 
 -- --------------------------------------------------------
 
